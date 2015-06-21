@@ -1,0 +1,18 @@
+Bcc: dejan@advite.ch
+Return-Path: <dejan.strbac@gmail.com>
+Received: from [192.168.0.7] (46-127-193-89.dynamic.hispeed.ch. [46.127.193.89])
+        by mx.google.com with ESMTPSA id gj7sm11277839wib.4.2015.06.21.00.28.44
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 21 Jun 2015 00:28:44 -0700 (PDT)
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2098\))
+Subject: Hello subject
+From: Dejan Strbac <dejan.strbac@gmail.com>
+Date: Sun, 21 Jun 2015 09:28:43 +0200
+Cc: Dejan Strbac <me@dejanstrbac.com>
+Content-Transfer-Encoding: 7bit
+Message-Id: <DEF7CBBD-9D16-4E77-858E-190D8EC74B4C@gmail.com>
+To: =?utf-8?B?0JTQtdGY0LDQvSDQqNGC0YDQsdCw0YY=?= <dejan.strbac@me.com>
+X-Mailer: Apple Mail (2.2098)
+
+Hello body

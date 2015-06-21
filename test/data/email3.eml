@@ -1,0 +1,2807 @@
+Delivered-To: dejan.strbac@gmail.com
+Received: by 10.25.61.10 with SMTP id k10csp1140721lfa;
+        Thu, 18 Jun 2015 06:13:21 -0700 (PDT)
+X-Received: by 10.170.136.150 with SMTP id d144mr13043240ykc.59.1434633201006;
+        Thu, 18 Jun 2015 06:13:21 -0700 (PDT)
+Return-Path: <bounce-mc.us5_16560903.561413-dejan.strbac=gmail.com@mail97.atl51.rsgsv.net>
+Received: from mail97.atl51.rsgsv.net (mail97.atl51.rsgsv.net. [205.201.135.97])
+        by mx.google.com with ESMTPS id n81si468124yke.9.2015.06.18.06.13.17
+        for <dejan.strbac@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 18 Jun 2015 06:13:20 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us5_16560903.561413-dejan.strbac=gmail.com@mail97.atl51.rsgsv.net designates 205.201.135.97 as permitted sender) client-ip=205.201.135.97;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us5_16560903.561413-dejan.strbac=gmail.com@mail97.atl51.rsgsv.net designates 205.201.135.97 as permitted sender) smtp.mail=bounce-mc.us5_16560903.561413-dejan.strbac=gmail.com@mail97.atl51.rsgsv.net;
+       dkim=pass header.i=@mail97.atl51.rsgsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail97.atl51.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=tl=3Difj.ch@mail97.atl51.rsgsv.net;
+ bh=uX6fGm1UQkqhkoaKwzJR7O4CePo=;
+ b=oCJH7v1jG5chHNZTkQrrFn0FltwnQMl6FyR5+rWzUoy/gv55AJDDLVdVXsuHMbbhktIP9V4Uq9cw
+   z90NNhIjDQhyo/c52aOTa0bCTFa19yIJSjoOudd5n59rMgPfFZWfirE2pZoVA/aOO9usrcQQiUpL
+   xRWQMH8nrit8WCurtpI=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=uX6fGm1UQkqhkoaKwzJR7O4CePo=;
+ b=kBKZiCn9g2WV6N78zlPGHLulzZKtJ5988e6zmbpBAixatFRIcCu1maYJ51erNrz/TjtqlKzyUWH0
+   R5lXOEteXfu8891hKZkeJIguy2yAzPYdTw3O7rK8Oe9VRXgDMtmZCb2OxLJalEW1CDun6MIdmK56
+   j4TxMGOQGs9JypZPwaQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail97.atl51.rsgsv.net;
+ b=pDXvpBjNoX2T2TiJq3RaDA2WEB0WbCjDaZCWs7ohEUNC+MkSClsj5B17Bph3l23Uo8GYwZod+Oaw
+   jwp20qz6ZPG4QeF6gUBOFCBLqAd1yjUfpe6ahm/TLHJNTRU2fBGupasfNG7tHe230ZSrvdaPJBUA
+   0KaO+HQH6FLBTIEaLxQ=;
+Received: from (127.0.0.1) by mail97.atl51.rsgsv.net id hgb1us1mr1os for <dejan.strbac@gmail.com>; Thu, 18 Jun 2015 13:12:59 +0000 (envelope-from <bounce-mc.us5_16560903.561413-dejan.strbac=gmail.com@mail97.atl51.rsgsv.net>)
+Subject: =?utf-8?Q?F=C3=BCnf=20Tipps=20f=C3=BCr=20entspanntes=20Arbeiten=20von=20unterwegs?=
+From: =?utf-8?Q?IFJ=20Newsletter?= <tl@ifj.ch>
+Reply-To: =?utf-8?Q?IFJ=20Newsletter?= <tl@ifj.ch>
+To: =?utf-8?Q?Dejan?= <dejan.strbac@gmail.com>
+Date: Thu, 18 Jun 2015 13:12:59 +0000
+Message-ID: <ed8d9998b1ef8c1febc54c41cb319329bb0.20150618131136@mail97.atl51.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID363da3cb91b319329bb0**
+X-Campaign: mailchimped8d9998b1ef8c1febc54c41c.363da3cb91
+X-campaignid: mailchimped8d9998b1ef8c1febc54c41c.363da3cb91
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=ed8d9998b1ef8c1febc54c41c&id=363da3cb91&e=b319329bb0
+X-MC-User: ed8d9998b1ef8c1febc54c41c
+X-Feedback-ID: 16560903:16560903.561413:us5:mc
+List-ID: ed8d9998b1ef8c1febc54c41cmc list <ed8d9998b1ef8c1febc54c41c.107925.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-ed8d9998b1ef8c1febc54c41c-363da3cb91-b319329bb0@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://venturelab.us5.list-manage1.com/unsubscribe?u=ed8d9998b1ef8c1febc54c41c&id=539ad8da87&e=b319329bb0&c=363da3cb91>
+Sender: "IFJ Newsletter" <tl=ifj.ch@mail97.atl51.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_618425884"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_618425884
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+View this email in your browser (http://us5.campaign-archive1.com/?u=3Ded8=
+d9998b1ef8c1febc54c41c&id=3D363da3cb91&e=3Db319329bb0)
+
+http://www.ifj.ch
+
+
+** Dieser Event wartet auf
+Sie!
+------------------------------------------------------------
+ Sehr geehrter Herr  Strbac
+30 Jahre ist es her=2C dass Eliano Ramelli=2C Claudio Hintermann und Thoma=
+s K=C3=B6berl in ihrer Studentenbude =C3=BCber der ersten Version einer Fi=
+nanzbuchhaltungs-Software br=C3=BCteten. Heute stehen die Gr=C3=BCnder von=
+ ABACUS ganz oben und f=C3=BChren den Markt mit ihren Produkten an. Im Int=
+erview mit Claudio Hintermann
+erfahren Sie
+ mehr =C3=BCber die Erfolgsstory. Und n=C3=A4chsten Montag
+k=C3=B6nnen Sie
+ einen anderen Erfolgsunternehmer live an der ETH Z=C3=BCrich erleben: Der=
+ Z=C3=BCrcher Stadtrat und Medienprofi Filippo Leutenegger gibt an unserem=
+ Startimpuls Spezial (http://www.ifj.ch/index.cfm?page=3D129080&event_id=
+=3D4218&signUnicSession=3D@@subsccnr@@&cmail=3Difjnewsletter)  Tipps und E=
+insch=C3=A4tzungen zum Unternehmertum. Wir freuen uns auf
+Ihren
+ Besuch!
+
+Unternehmerische Gr=C3=BCsse
+Ihr
+ IFJ-Team
+https://de-de.facebook.com/IFJ.CH Facebook (https://de-de.facebook.com/IFJ=
+=2ECH)
+https://twitter.com/ifj_ch Twitter (https://twitter.com/ifj_ch)
+http://www.ifj.ch Website (http://www.ifj.ch)
+
+
+** Kreatives Denken seit 30 Jahren
+------------------------------------------------------------
+http://www.ifj.ch/Erfolgreich-Software-entwickeln-Bei-ABACUS-ist-seit-30-J=
+ahren-kreatives-Denken-angesagt
+
+Claudio Hintermann gr=C3=BCndete mit seinen Studienfreunden vor genau 30 J=
+ahren die Softwarefirma ABACUS. Heute besch=C3=A4ftigt das Ostschweizer Un=
+ternehmen =C3=BCber 300 Mitarbeitende und ist im Bereich Standardgesch=C3=
+=A4ftsl=C3=B6sungen f=C3=BCr KMU in der Schweiz die Nummer eins. Ein Gespr=
+=C3=A4ch mit Claudio Hintermann =C3=BCber die Hintergr=C3=BCnde der einzig=
+artigen Erfolgsgeschichte gibt=E2=80=99s hier.
+* Jetzt kennenlernen (http://www.ifj.ch/Erfolgreich-Software-entwickeln-Be=
+i-ABACUS-ist-seit-30-Jahren-kreatives-Denken-angesagt)
+
+
+** Unternehmerische Tipps von Filippo Leutenegger
+------------------------------------------------------------
+http://www.ifj.ch/index.cfm?page=3D129080&event_id=3D4218&signUnicSession=
+=3D@@subsccnr@@&cmail=3Difjnewsletter
+
+Wer mit seinem Jungunternehmen nach oben will=2C sollte auch die richtigen=
+ Networking-Events besuchen. Einen=2C den wir w=C3=A4rmstens empfehlen k=
+=C3=B6nnen=2C ist der Startimpuls Spezial mit dem erfolgreichen Medienunte=
+rnehmer und Politiker Filippo Leutenegger an der ETH Z=C3=BCrich. Wer sich=
+ die wertvollen Tipps von ihm nicht entgehen lassen m=C3=B6chte=2C sichert=
+ sich die letzten Pl=C3=A4tze f=C3=BCr kommenden Montag.
+* Nicht verpassen (http://www.ifj.ch/index.cfm?page=3D129080&event_id=3D42=
+18&signUnicSession=3D@@subsccnr@@&cmail=3Difjnewsletter)
+
+
+** IFJ Gr=C3=BCnder sahnt bei >>venture>> ab
+------------------------------------------------------------
+https://www.youtube.com/watch?v=3DorSsNYfDd0Q
+
+Zu Beginn dieser Woche wurden die besten Businessideen und -pl=C3=A4ne von=
+ >>venture>> 2015 pr=C3=A4miert (http://www.srf.ch/play/tv/eco/video/ventu=
+re-final-start-ups-die-es-schaffen-koennen-serie-teil-3?id=3D3fd9cba9-b783=
+-4383-ae55-ee34fdff946b) =2C unter ihnen der IFJ Gr=C3=BCnder Li Xiang von=
+ ZuriMED. Er erfuhr die gute Nachricht in den USA=2C wo er sich zurzeit mi=
+t der Schweizer Startup Nationalmannschaft (http://www.ifj.ch/Die-Schweize=
+r-Startup-Nationalmannschaft-2015-will-den-USMarkt-erobern) f=C3=BCr einen=
+ zehnt=C3=A4gigen Business Trip aufh=C3=A4lt. Das gesamte IFJ Team gratuli=
+ert herzlich und w=C3=BCnscht viel Erfolg in Boston und New York.
+* Ab zum Videobeitrag (https://www.youtube.com/watch?v=3DorSsNYfDd0Q)
+
+
+** Administration im Griff?
+------------------------------------------------------------
+http://www.ifj.ch/index.cfm?page=3D129082&event_id=3D4254&eventpool_id=3D5=
+19
+Sie haben Ihre
+ Firma gegr=C3=BCndet und
+suchen
+ die passende L=C3=B6sung f=C3=BCr eine effiziente Administration? Unser S=
+tartup-Coach erkl=C3=A4rt
+Ihnen=2C
+ wie
+Sie
+ mit dem Business Navigator (https://www.business-navigator.ch/Pages/Auth/=
+Login.aspx) administrative Prozesse automatisieren und so Zeit f=C3=BCr da=
+s wirklich Wichtige gewinnen
+k=C3=B6nnen
+ =E2=80=93
+Ihr
+ Business.
+* Jetzt f=C3=BCr den kostenlosen Kurs anmelden (http://www.ifj.ch/index.cf=
+m?page=3D129082&event_id=3D4254&eventpool_id=3D519)
+
+
+** Immer unterwegs? Tipps f=C3=BCr mobiles Arbeiten
+------------------------------------------------------------
+http://www.kmu-businessworld.ch/de/ergonomie-tablet-notebook#.VYJ_Mvntmko
+
+Die Digitalisierung ver=C3=A4ndert unsere Arbeitsweise enorm und bietet fl=
+exible Arbeitsformen.
+Sie arbeiten
+ auch h=C3=A4ufig von unterwegs? Ob im Zug oder im Caf=C3=A9=2C die Tipps=
+ von Swisscom KMU Business World helfen
+Ihnen=2C
+ beim mobilen Arbeiten entspannt zu bleiben und Verspannungen zu vermeiden=
+=2E
+* Jetzt ausprobieren (http://www.kmu-businessworld.ch/de/ergonomie-tablet-=
+notebook#.VYJ_Mvntmko)
+
+
+** Unser Startup Support
+------------------------------------------------------------
+
+IFJ Startimpuls: Spannende Impulsreferate und Networking
+* Das Internet der Zukunft // Z=C3=BCrich=2C 18. Juni (http://www.ifj.ch/i=
+ndex.cfm?page=3D129080&event_id=3D4292&signUnicSession=3D@@subsccnr@@&cmai=
+l=3Difjnewsletter)
+* Unternehmerische Tipps von Filippo Leutenegger // Z=C3=BCrich=2C 22. Jun=
+i (http://www.ifj.ch/index.cfm?page=3D129080&event_id=3D4218&signUnicSessi=
+on=3D@@subsccnr@@&cmail=3Difjnewsletter)
+* Gute Ideen werden geklaut: So sch=C3=BCtzen Sie sich // Bern=2C 25. Juni=
+ (http://www.ifj.ch/index.cfm?page=3D129080&event_id=3D4120&signUnicSessio=
+n=3D@@subsccnr@@&cmail=3Difjnewsletter)
+
+
+Intensivkurse: Die beste Vorbereitung f=C3=BCr die Praxis
+* Vorbereitung zur Firmengr=C3=BCndung // Brugg=2C 24. Juni (http://www.if=
+j.ch/index.cfm?page=3D129082&event_id=3D4212&eventpool_id=3D117&signUnicSe=
+ssion=3D@@subsccnr@@&cmail=3Difjnewsletter)
+* Vorbereitung zur Firmengr=C3=BCndung // Z=C3=BCrich=2C 2. Juli (http://w=
+ww.ifj.ch/index.cfm?page=3D129082&event_id=3D4238&eventpool_id=3D117&signU=
+nicSession=3D@@subsccnr@@&cmail=3Difjnewsletter)
+* Einf=C3=BChrung Business Navigator // Z=C3=BCrich=2C 15. Juli (http://ww=
+w.ifj.ch/index.cfm?page=3D129082&event_id=3D4254&eventpool_id=3D519&signUn=
+icSession=3D@@subsccnr@@&cmail=3Difjnewsletter)
+
+Unternehmer-Tools: Garantiert schneller am Ziel
+* Genial einfach eine Firma inkl. Startguthaben gr=C3=BCnden (http://www.i=
+fj.ch/gruenden)
+* F=C3=BChrende Business-Software AbaWeb gratis testen (http://www.ifj-aba=
+web.ch/)
+* Der neue Business Navigator bringt Startups auf Erfolgskurs (http://www.=
+business-navigator.ch/)
+
+http://ifj.ch/index.cfm?page=3D129076&startupdeal_id=3D1&partnerkategorie_=
+id=3D1 http://ifj.ch/index.cfm?page=3D129076&startupdeal_id=3D2&partnerkat=
+egorie_id=3D1
+http://ifj.ch/index.cfm?page=3D129076&startupdeal_id=3D3&partnerkategorie_=
+id=3D1
+http://ifj.ch/index.cfm?page=3D129076&startupdeal_id=3D4&partnerkategorie_=
+id=3D1
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Das IFJ Institut f=C3=BCr Jungunternehmen ist die Anlaufstelle Nr. 1 f=C3=
+=BCr Schweizer Startups. Seit 1989 haben wir =C3=BCber 100'000 Firmengr=C3=
+=BCnder und Firmengr=C3=BCnderinnen auf ihrem Weg in die Selbst=C3=A4ndigk=
+eit unterst=C3=BCtzt.
+** Firma gr=C3=BCnden (http://www.ifj.ch/gruenden)
+| ** Kunden gewinnen (http://www.ifj.ch/kunden)
+| ** Investoren finden (http://www.ifj.ch/investoren)
+| ** Wachstum planen (http://www.ifj.ch/wachstum)
+** (http://www.venturekick.ch)
+** (http://startup.ch/index.cfm?page=3D129389)
+** (http://www.venturelab.ch)
+** (http://www.startup.ch)
+Institut f=C3=BCr Jungunternehmen AG=2C Kesslerstrasse 9=2C 9000 St. Galle=
+n
+Tel. +41 (0)71 242 98 98
+
+** Newsletter abmelden (http://www.ifj.ch/index.cfm?page=3D129221&UUID=3D=
+851A8E03-1CC4-D8FC-CE1AA21E1F5C7475)
+** Daten =C3=A4ndern (http://www.ifj.ch/index.cfm?page=3D129221&UUID=3D=
+851A8E03-1CC4-D8FC-CE1AA21E1F5C7475)
+** (https://de-de.facebook.com/IFJ.CH)
+** Facebook (https://de-de.facebook.com/IFJ.CH)
+** (https://twitter.com/ifj_ch)
+** Twitter (https://twitter.com/ifj_ch)
+** (http://www.ifj.ch)
+** Website (http://www.ifj.ch)
+Copyright =C2=A9 2015 IFJ=2C All rights reserved.
+ You are receiving this email because you subscribed to our newsletter.
+This email was sent to dejan.strbac@gmail.com (mailto:dejan.strbac@gmail.com)
+why did I get this? (http://venturelab.us5.list-manage.com/about?u=3Ded8d9=
+998b1ef8c1febc54c41c&id=3D539ad8da87&e=3Db319329bb0&c=3D363da3cb91)     unsu=
+bscribe from this list (http://venturelab.us5.list-manage1.com/unsubscribe=
+?u=3Ded8d9998b1ef8c1febc54c41c&id=3D539ad8da87&e=3Db319329bb0&c=3D363da3cb91=
+)     update subscription preferences (http://venturelab.us5.list-manage1.=
+com/profile?u=3Ded8d9998b1ef8c1febc54c41c&id=3D539ad8da87&e=3Db319329bb0)
+venturelab c/o IFJ . EPFL Innovation Park . B=C3=A2timent C . Lausanne 101=
+5 . Switzerland
+--_----------=_MCPart_618425884
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <title>F=C3=BCnf Tipps f=C3=BCr entspanntes Arbeiten von unterwegs=
+</title>
+
+        <!--[if gte mso 6]>
+        <style>
+            table.mcnFollowContent {width:100% !important;}
+            table.mcnShareContent {width:100% !important;}
+        </style>
+        <![endif]-->
+    <style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09a{
+=09=09=09word-wrap:break-word !important;
+=09=09}
+=09=09img{
+=09=09=09border:0;
+=09=09=09height:auto !important;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09table=2Ctd{
+=09=09=09border-collapse:collapse;
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09#bodyTable=2C#bodyCell{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09.mcnImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#ffffff;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:0;
+=09=09}
+=09=09h1{
+=09=09=09color:#3a3c3e !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:26px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-1px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#404040 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:24px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-.75px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#606060 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-.5px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#808080 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h1 a=2Ch2 a=2Ch3 a=2Ch4 a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:bold;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.preheaderContainer .mcnTextContent=2C.preheaderContainer .mcnTextCo=
+ntent p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContainer .mcnTextContent a{
+=09=09=09color:#606060;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#fafafa;
+=09=09=09border-top:1px solid #dadada;
+=09=09=09border-bottom:1px solid #dadada;
+=09=09}
+=09=09.headerContainer .mcnTextContent=2C.headerContainer .mcnTextContent=
+ p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.headerContainer .mcnTextContent a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#ffffff;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.bodyContainer .mcnTextContent=2C.bodyContainer .mcnTextContent p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:110%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContainer .mcnTextContent a{
+=09=09=09color:#75858f;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateColumns{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.leftColumnContainer .mcnTextContent=2C.leftColumnContainer .mcnText=
+Content p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.leftColumnContainer .mcnTextContent a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.rightColumnContainer .mcnTextContent=2C.rightColumnContainer .mcnTe=
+xtContent p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.rightColumnContainer .mcnTextContent a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#2c3c46;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.footerContainer .mcnTextContent=2C.footerContainer .mcnTextContent=
+ p{
+=09=09=09color:#ffffff;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.footerContainer .mcnTextContent a{
+=09=09=09color:#ffffff;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnBoxedTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3Dmcpreview-image-uploader]{
+=09=09=09width:100% !important;
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09img[class=3DmcnImage]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnImageGroupContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageGroupContent]{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageGroupBlockInner]{
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-top:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09tbody[class=3DmcnImageGroupBlockOuter]{
+=09=09=09padding-bottom:9px !important;
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionTopContent]=2Ctable[class=3DmcnCaptionBott=
+omContent]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionLeftTextContentContainer]=2Ctable[class=3D=
+mcnCaptionRightTextContentContainer]=2Ctable[class=3DmcnCaptionLeftImageC=
+ontentContainer]=2Ctable[class=3DmcnCaptionRightImageContentContainer]=2C=
+table[class=3DmcnImageCardLeftTextContentContainer]=2Ctable[class=3DmcnI=
+mageCardRightTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardLeftImageContent]=2Ctd[class=3DmcnImageCard=
+RightImageContent]{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardBottomImageContent]{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardTopImageContent]{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardLeftImageContent]=2Ctd[class=3DmcnImageCard=
+RightImageContent]{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardBottomImageContent]{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardTopImageContent]{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionLeftContentOuter] td[class=3DmcnTextConten=
+t]=2Ctable[class=3DmcnCaptionRightContentOuter] td[class=3DmcnTextConten=
+t]{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnCaptionBlockInner] table[class=3DmcnCaptionTopConten=
+t]:last-child td[class=3DmcnTextContent]{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnBoxedTextContentColumn]{
+=09=09=09padding-left:18px !important;
+=09=09=09padding-right:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DcolumnsContainer]{
+=09=09=09display:block !important;
+=09=09=09max-width:600px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DtemplateContainer]=2Ctable[id=3DtemplateColumns]=2Ct=
+able[class=3DtemplateColumn]{
+=09=09=09max-width:600px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:24px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnBoxedTextContentContainer] td[class=3DmcnTextCont=
+ent]{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[id=3DtemplatePreheader]{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DpreheaderContainer] td[class=3DmcnTextContent]{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:115% !important;
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DheaderContainer] td[class=3DmcnTextContent]{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DbodyContainer] td[class=3DmcnTextContent]{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DleftColumnContainer] td[class=3DmcnTextContent]{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DrightColumnContainer] td[class=3DmcnTextContent]{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DfooterContainer] td[class=3DmcnTextContent]{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:115% !important;
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DfooterContainer] a[class=3DutilityLink]{
+=09=09=09display:block !important;
+=09=09}
+
+}</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"margin: 0;padding: 0;background-color: #fffff=
+f;">
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;=
+padding: 0;background-color: #ffffff;height: 100% !important;width: 100% !=
+important;">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;margin: 0;padding: 0;border-top: 0;height: 100% !important;width: 100%=
+ !important;">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;">
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+                                    <!-- BEGIN PREHEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" id=3D"templatePreheader" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background=
+-color: #FFFFFF;border-top: 0;border-bottom: 0;">
+                                        <tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"preheaderContainer" style=3D"padding-top: 9px;border-collapse: c=
+ollapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock"=
+ style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"366" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-left: 18px;padding-bottom: 9px;padding-right:=
+ 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;c=
+olor: #606060;font-family: Helvetica;font-size: 11px;line-height: 125%;tex=
+t-align: left;">
+
+                            <style type=3D"text/css">
+=2EmcnFollowBlockInner{
+    =09padding: 0 !important;
+    }
+=2EmcnFollowContentItem{
+=09margin-left: -10px
+}
+=2Earrow{
+=09background: url(https://gallery.mailchimp.com/ed8d9998b1ef8c1febc54c41c=
+/images/ifjre_arrow.2.png) no-repeat;
+    list-style: none;
+    padding: 0 0 0 25px;
+}</style>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+                <table align=3D"right" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"197" class=3D"mcnTextContentContainer" style=3D"bor=
+der-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;c=
+olor: #606060;font-family: Helvetica;font-size: 11px;line-height: 125%;tex=
+t-align: left;">
+
+                            <a href=3D"http://us5.campaign-archive1.com/?u=
+=3Ded8d9998b1ef8c1febc54c41c&id=3D363da3cb91&e=3Db319329bb0" target=3D"_blan=
+k" style=3D"color: #606060;font-weight: normal;text-decoration: underline;=
+word-wrap: break-word !important;">View this email in your browser</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END PREHEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+                                    <!-- BEGIN HEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" id=3D"templateHeader" style=3D"border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-co=
+lor: #fafafa;border-top: 1px solid #dadada;border-bottom: 1px solid #dadad=
+a;">
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"headerContainer" style=3D"padding-top: 10px;padding-right: 18px;=
+padding-bottom: 10px;padding-left: 18px;border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;"><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" class=3D"mcnImageB=
+lockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+
+                                    <a href=3D"http://venturelab.us5.list-=
+manage1.com/track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D6721cccebe&e=3D=
+b319329bb0" title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: b=
+reak-word !important;">
+                                        <img align=3D"left" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/ed8d9998b1ef8c1febc54c41c/images/ifj_log=
+o_dark.png" width=3D"110" style=3D"max-width: 110px;padding-bottom: 0;disp=
+lay: inline !important;vertical-align: bottom;border: 0;line-height: 100%;=
+outline: none;text-decoration: none;height: auto !important;" class=3D"mcn=
+Image">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #DADADA;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+                        <td style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 14px;line-height: 150%;=
+text-align: left;">
+
+                            <h1 style=3D"display: block;font-family: Helve=
+tica;font-size: 26px;font-style: normal;font-weight: normal;line-height: 1=
+25%;letter-spacing: -1px;margin: 0;text-align: left;color: #3a3c3e !import=
+ant;">Dieser Event wartet auf
+Sie!
+</h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #DADADA;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+                        <td style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 14px;line-height: 150%;=
+text-align: left;">
+ Sehr geehrter Herr =C2=A0Strbac
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 14px;line-height: 150%;=
+text-align: left;">
+
+                            30 Jahre ist es her=2C dass Eliano Ramelli=2C=
+ Claudio Hintermann und Thomas K=C3=B6berl in ihrer Studentenbude =C3=BCbe=
+r der ersten Version einer Finanzbuchhaltungs-Software br=C3=BCteten. Heut=
+e stehen die Gr=C3=BCnder von ABACUS ganz oben und f=C3=BChren den Markt m=
+it ihren Produkten an. Im Interview mit Claudio Hintermann
+erfahren Sie
+ mehr =C3=BCber die Erfolgsstory. Und n=C3=A4chsten Montag
+k=C3=B6nnen Sie
+ einen anderen Erfolgsunternehmer live an der ETH Z=C3=BCrich erleben: Der=
+ Z=C3=BCrcher Stadtrat und Medienprofi Filippo Leutenegger gibt an unserem=
+ <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded8d9998=
+b1ef8c1febc54c41c&id=3Dfa17be2a41&e=3Db319329bb0" target=3D"_blank" style=
+=3D"color: #6DC6DD;font-weight: normal;text-decoration: underline;word-wra=
+p: break-word !important;">Startimpuls Spezial</a>=C2=A0Tipps und Einsch=
+=C3=A4tzungen zum Unternehmertum. Wir freuen uns auf
+Ihren
+ Besuch!<br>
+<br>
+Unternehmerische Gr=C3=BCsse<br>
+Ihr
+ IFJ-Team
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnFollowBlock" style=3D"border-collapse: collapse;mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnFollowBlockOuter">
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"padding: 9px;bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" class=
+=3D"mcnFollowBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" class=3D"mcnFollowContentContainer" style=3D"border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody><tr>
+        <td align=3D"left" style=3D"padding-left: 9px;padding-right: 9px;b=
+order-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"mcnFollowContent" style=3D"border-collapse: collapse;ms=
+o-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <tbody><tr>
+                    <td align=3D"left" valign=3D"top" style=3D"padding-top=
+: 9px;padding-right: 9px;padding-left: 9px;border-collapse: collapse;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;">
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;">
+=09=09=09=09=09=09=09<tbody><tr>
+=09=09=09=09=09=09=09=09<td valign=3D"top" style=3D"border-collapse: colla=
+pse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 10px;padding-bottom: 9px;border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;" class=3D"mcnFollowContentItemCon=
+tainer">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;margin-left: -10px;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3Db7acd0fb70&e=3Db319329bb0" target=3D"_blank=
+" style=3D"word-wrap: break-word !important;"><img src=3D"http://cdn-image=
+s.mailchimp.com/icons/social-block-v2/color-facebook-48.png" style=3D"disp=
+lay: block;border: 0;line-height: 100%;outline: none;text-decoration: none=
+;height: auto !important;" height=3D"24" width=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"left" valign=3D"middle" class=3D"mcnFollowTextContent" st=
+yle=3D"padding-left: 5px;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage1.com/track/click?u=3D=
+ed8d9998b1ef8c1febc54c41c&id=3D34cbd2a3af&e=3Db319329bb0" target=3D"" sty=
+le=3D"font-family: Arial;font-size: 11px;text-decoration: none;color: #606=
+060;font-weight: normal;line-height: 100%;text-align: center;word-wrap: br=
+eak-word !important;">Facebook</a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 10px;padding-bottom: 9px;border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;" class=3D"mcnFollowContentItemCon=
+tainer">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;margin-left: -10px;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage1.com/track/click?u=3D=
+ed8d9998b1ef8c1febc54c41c&id=3D9e3a9d641e&e=3Db319329bb0" target=3D"_blan=
+k" style=3D"word-wrap: break-word !important;"><img src=3D"http://cdn-imag=
+es.mailchimp.com/icons/social-block-v2/color-twitter-48.png" style=3D"disp=
+lay: block;border: 0;line-height: 100%;outline: none;text-decoration: none=
+;height: auto !important;" height=3D"24" width=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"left" valign=3D"middle" class=3D"mcnFollowTextContent" st=
+yle=3D"padding-left: 5px;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage1.com/track/click?u=3D=
+ed8d9998b1ef8c1febc54c41c&id=3Db5424ebeb6&e=3Db319329bb0" target=3D"" sty=
+le=3D"font-family: Arial;font-size: 11px;text-decoration: none;color: #606=
+060;font-weight: normal;line-height: 100%;text-align: center;word-wrap: br=
+eak-word !important;">Twitter</a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 0;padding-bottom: 9px;border-collapse: collapse;mso-tab=
+le-lspace: 0pt;mso-table-rspace: 0pt;" class=3D"mcnFollowContentItemContai=
+ner">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;margin-left: -10px;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3D6822e0a500&e=3Db319329bb0" target=3D"_blank=
+" style=3D"word-wrap: break-word !important;"><img src=3D"http://cdn-image=
+s.mailchimp.com/icons/social-block-v2/color-link-48.png" style=3D"display:=
+ block;border: 0;line-height: 100%;outline: none;text-decoration: none;hei=
+ght: auto !important;" height=3D"24" width=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"left" valign=3D"middle" class=3D"mcnFollowTextContent" st=
+yle=3D"padding-left: 5px;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3D586bb7d6d2&e=3Db319329bb0" target=3D"" styl=
+e=3D"font-family: Arial;font-size: 11px;text-decoration: none;color: #6060=
+60;font-weight: normal;line-height: 100%;text-align: center;word-wrap: bre=
+ak-word !important;">Website</a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END HEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+                                    <!-- BEGIN BODY // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" id=3D"templateBody" style=3D"border-coll=
+apse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-colo=
+r: #ffffff;border-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"bodyContainer" style=3D"padding-top: 10px;padding-right: 18px;pa=
+dding-bottom: 10px;padding-left: 18px;border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;"><table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=3D"border-c=
+ollapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;=
+text-align: left;">
+
+                            <h1 style=3D"display: block;font-family: Helve=
+tica;font-size: 26px;font-style: normal;font-weight: normal;line-height: 1=
+25%;letter-spacing: -1px;margin: 0;text-align: left;color: #3a3c3e !import=
+ant;">Kreatives Denken seit 30 Jahren</h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnCaptionBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" valign=3D"top" style=3D"pad=
+ding: 9px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;">
+
+
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptio=
+nRightContentOuter" width=3D"100%" style=3D"border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody><tr>
+        <td valign=3D"top" class=3D"mcnCaptionRightContentInner" style=3D"=
+padding: 0 9px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;">
+            <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"mcnCaptionRightImageContentContainer" style=3D"border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <tbody><tr>
+                    <td class=3D"mcnCaptionRightImageContent" valign=3D"to=
+p" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspa=
+ce: 0pt;">
+
+
+                        <a href=3D"http://venturelab.us5.list-manage1.com/=
+track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3De98a3bf570&e=3Db319329bb0"=
+ title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: break-word !i=
+mportant;">
+
+
+                        <img alt=3D"" src=3D"https://gallery.mailchimp.com=
+/ed8d9998b1ef8c1febc54c41c/images/d24f2694-29a8-4f67-ac40-f45dc091bf03.png=
+" width=3D"175" style=3D"max-width: 175px;border: 0;line-height: 100%;outl=
+ine: none;text-decoration: none;vertical-align: bottom;height: auto !impor=
+tant;" class=3D"mcnImage">
+                        </a>
+
+
+                    </td>
+                </tr>
+            </tbody></table>
+            <table class=3D"mcnCaptionRightTextContentContainer" align=3D"=
+right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"352" styl=
+e=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;">
+                <tbody><tr>
+                    <td valign=3D"top" class=3D"mcnTextContent" style=3D"b=
+order-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color=
+: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;text-al=
+ign: left;">
+                        Claudio Hintermann gr=C3=BCndete mit seinen Studie=
+nfreunden vor genau 30 Jahren die Softwarefirma ABACUS. Heute besch=C3=A4f=
+tigt das Ostschweizer Unternehmen =C3=BCber 300 Mitarbeitende und ist im B=
+ereich Standardgesch=C3=A4ftsl=C3=B6sungen f=C3=BCr KMU in der Schweiz die=
+ Nummer eins. Ein Gespr=C3=A4ch mit Claudio Hintermann =C3=BCber die Hinte=
+rgr=C3=BCnde der einzigartigen Erfolgsgeschichte gibt=E2=80=99s hier.
+<ul class=3D"arrow" style=3D"background: url(https://gallery.mailchimp.com=
+/ed8d9998b1ef8c1febc54c41c/images/ifjre_arrow.2.png) no-repeat;list-style:=
+ none;padding: 0 0 0 25px;">
+=09<li><a href=3D"http://venturelab.us5.list-manage1.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3D4baa48f358&e=3Db319329bb0" target=3D"_blank=
+" style=3D"color: #75858f;font-weight: normal;text-decoration: underline;w=
+ord-wrap: break-word !important;">Jetzt kennenlernen</a></li>
+</ul>
+
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #DADADA;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+                        <td style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;=
+text-align: left;">
+
+                            <h1 style=3D"display: block;font-family: Helve=
+tica;font-size: 26px;font-style: normal;font-weight: normal;line-height: 1=
+25%;letter-spacing: -1px;margin: 0;text-align: left;color: #3a3c3e !import=
+ant;">Unternehmerische Tipps von Filippo Leutenegger</h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnCaptionBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" valign=3D"top" style=3D"pad=
+ding: 9px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;">
+
+
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptio=
+nRightContentOuter" width=3D"100%" style=3D"border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody><tr>
+        <td valign=3D"top" class=3D"mcnCaptionRightContentInner" style=3D"=
+padding: 0 9px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;">
+            <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"mcnCaptionRightImageContentContainer" style=3D"border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <tbody><tr>
+                    <td class=3D"mcnCaptionRightImageContent" valign=3D"to=
+p" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspa=
+ce: 0pt;">
+
+
+                        <a href=3D"http://venturelab.us5.list-manage.com/t=
+rack/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D80a8ad5e48&e=3Db319329bb0"=
+ title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: break-word !i=
+mportant;">
+
+
+                        <img alt=3D"" src=3D"https://gallery.mailchimp.com=
+/ed8d9998b1ef8c1febc54c41c/images/734bbd62-d135-483e-88e5-d9eef19ca104.png=
+" width=3D"175" style=3D"max-width: 175px;border: 0;line-height: 100%;outl=
+ine: none;text-decoration: none;vertical-align: bottom;height: auto !impor=
+tant;" class=3D"mcnImage">
+                        </a>
+
+
+                    </td>
+                </tr>
+            </tbody></table>
+            <table class=3D"mcnCaptionRightTextContentContainer" align=3D"=
+right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"352" styl=
+e=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;">
+                <tbody><tr>
+                    <td valign=3D"top" class=3D"mcnTextContent" style=3D"b=
+order-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color=
+: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;text-al=
+ign: left;">
+                        Wer mit seinem Jungunternehmen nach oben will=2C s=
+ollte auch die richtigen Networking-Events besuchen. Einen=2C den wir w=C3=
+=A4rmstens empfehlen k=C3=B6nnen=2C ist der Startimpuls Spezial mit dem er=
+folgreichen Medienunternehmer und Politiker Filippo Leutenegger an der ETH=
+ Z=C3=BCrich. Wer sich die wertvollen Tipps von ihm nicht entgehen lassen=
+ m=C3=B6chte=2C sichert sich die letzten Pl=C3=A4tze f=C3=BCr kommenden Mo=
+ntag.
+<ul class=3D"arrow" style=3D"background: url(https://gallery.mailchimp.com=
+/ed8d9998b1ef8c1febc54c41c/images/ifjre_arrow.2.png) no-repeat;list-style:=
+ none;padding: 0 0 0 25px;">
+=09<li><a href=3D"http://venturelab.us5.list-manage1.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3D2d0d61a051&e=3Db319329bb0" target=3D"_blank=
+" style=3D"color: #75858f;font-weight: normal;text-decoration: underline;w=
+ord-wrap: break-word !important;">Nicht verpassen</a></li>
+</ul>
+
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #DADADA;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+                        <td style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;=
+text-align: left;">
+
+                            <h1 style=3D"display: block;font-family: Helve=
+tica;font-size: 26px;font-style: normal;font-weight: normal;line-height: 1=
+25%;letter-spacing: -1px;margin: 0;text-align: left;color: #3a3c3e !import=
+ant;">IFJ Gr=C3=BCnder sahnt bei &gt;&gt;venture&gt;&gt; ab</h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnCaptionBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" valign=3D"top" style=3D"pad=
+ding: 9px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;">
+
+
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptio=
+nRightContentOuter" width=3D"100%" style=3D"border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody><tr>
+        <td valign=3D"top" class=3D"mcnCaptionRightContentInner" style=3D"=
+padding: 0 9px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;">
+            <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"mcnCaptionRightImageContentContainer" style=3D"border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <tbody><tr>
+                    <td class=3D"mcnCaptionRightImageContent" valign=3D"to=
+p" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspa=
+ce: 0pt;">
+
+
+                        <a href=3D"http://venturelab.us5.list-manage1.com/=
+track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D836319d631&e=3Db319329bb0"=
+ title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: break-word !i=
+mportant;">
+
+
+                        <img alt=3D"" src=3D"https://gallery.mailchimp.com=
+/ed8d9998b1ef8c1febc54c41c/images/c7f9f977-c767-4721-a299-b76860febdd6.png=
+" width=3D"175" style=3D"max-width: 175px;border: 0;line-height: 100%;outl=
+ine: none;text-decoration: none;vertical-align: bottom;height: auto !impor=
+tant;" class=3D"mcnImage">
+                        </a>
+
+
+                    </td>
+                </tr>
+            </tbody></table>
+            <table class=3D"mcnCaptionRightTextContentContainer" align=3D"=
+right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"352" styl=
+e=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;">
+                <tbody><tr>
+                    <td valign=3D"top" class=3D"mcnTextContent" style=3D"b=
+order-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color=
+: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;text-al=
+ign: left;">
+                        Zu Beginn dieser Woche wurden die besten Businessi=
+deen und -pl=C3=A4ne von &gt;&gt;venture&gt;&gt; 2015 <a href=3D"http://ve=
+nturelab.us5.list-manage.com/track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=
+=3Dd62545bf60&e=3Db319329bb0" target=3D"_blank" style=3D"color: #75858f;f=
+ont-weight: normal;text-decoration: underline;word-wrap: break-word !impor=
+tant;">pr=C3=A4miert</a>=2C unter ihnen der IFJ Gr=C3=BCnder Li Xiang von=
+ ZuriMED. Er erfuhr die gute Nachricht in den USA=2C wo er sich zurzeit mi=
+t der <a href=3D"http://venturelab.us5.list-manage2.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3Ddb313b59af&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Schweizer Startup Nationalmannschaft </a>=
+f=C3=BCr einen zehnt=C3=A4gigen Business Trip aufh=C3=A4lt. Das gesamte IF=
+J Team gratuliert herzlich und w=C3=BCnscht viel Erfolg in Boston und New=
+ York.
+<ul class=3D"arrow" style=3D"background: url(https://gallery.mailchimp.com=
+/ed8d9998b1ef8c1febc54c41c/images/ifjre_arrow.2.png) no-repeat;list-style:=
+ none;padding: 0 0 0 25px;">
+=09<li><a href=3D"http://venturelab.us5.list-manage1.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3D56a8f9451a&e=3Db319329bb0" target=3D"_blank=
+" style=3D"color: #75858f;font-weight: normal;text-decoration: underline;w=
+ord-wrap: break-word !important;">Ab zum Videobeitrag</a></li>
+</ul>
+
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #DADADA;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+                        <td style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;=
+text-align: left;">
+
+                            <h1 style=3D"display: block;font-family: Helve=
+tica;font-size: 26px;font-style: normal;font-weight: normal;line-height: 1=
+25%;letter-spacing: -1px;margin: 0;text-align: left;color: #3a3c3e !import=
+ant;">Administration im Griff?</h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnCaptionBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" valign=3D"top" style=3D"pad=
+ding: 9px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;">
+
+
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptio=
+nRightContentOuter" width=3D"100%" style=3D"border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody><tr>
+        <td valign=3D"top" class=3D"mcnCaptionRightContentInner" style=3D"=
+padding: 0 9px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;">
+            <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"mcnCaptionRightImageContentContainer" style=3D"border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <tbody><tr>
+                    <td class=3D"mcnCaptionRightImageContent" valign=3D"to=
+p" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspa=
+ce: 0pt;">
+
+
+                        <a href=3D"http://venturelab.us5.list-manage.com/t=
+rack/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D8fbc21d300&e=3Db319329bb0"=
+ title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: break-word !i=
+mportant;">
+
+
+                        <img alt=3D"" src=3D"https://gallery.mailchimp.com=
+/ed8d9998b1ef8c1febc54c41c/images/3f96c2df-443d-49c8-973f-5304348b92cc.png=
+" width=3D"175" style=3D"max-width: 175px;border: 0;line-height: 100%;outl=
+ine: none;text-decoration: none;vertical-align: bottom;height: auto !impor=
+tant;" class=3D"mcnImage">
+                        </a>
+
+
+                    </td>
+                </tr>
+            </tbody></table>
+            <table class=3D"mcnCaptionRightTextContentContainer" align=3D"=
+right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"352" styl=
+e=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;">
+                <tbody><tr>
+                    <td valign=3D"top" class=3D"mcnTextContent" style=3D"b=
+order-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color=
+: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;text-al=
+ign: left;">
+Sie haben Ihre
+ Firma gegr=C3=BCndet und
+suchen
+ die passende L=C3=B6sung f=C3=BCr eine effiziente Administration? Unser S=
+tartup-Coach erkl=C3=A4rt
+Ihnen=2C
+ wie
+Sie
+ mit dem <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3D=
+ed8d9998b1ef8c1febc54c41c&id=3D7f555a2bb2&e=3Db319329bb0" target=3D"_blan=
+k" style=3D"color: #75858f;font-weight: normal;text-decoration: underline;=
+word-wrap: break-word !important;">Business Navigator</a> administrative P=
+rozesse automatisieren und so Zeit f=C3=BCr das wirklich Wichtige gewinnen
+k=C3=B6nnen
+ =E2=80=93
+Ihr
+ Business.
+
+<ul class=3D"arrow" style=3D"background: url(https://gallery.mailchimp.com=
+/ed8d9998b1ef8c1febc54c41c/images/ifjre_arrow.2.png) no-repeat;list-style:=
+ none;padding: 0 0 0 25px;">
+=09<li><a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3Dc2f81f877d&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Jetzt f=C3=BCr den kostenlosen Kurs anmel=
+den</a></li>
+</ul>
+
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #DADADA;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+                        <td style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;=
+text-align: left;">
+
+                            <h1 style=3D"display: block;font-family: Helve=
+tica;font-size: 26px;font-style: normal;font-weight: normal;line-height: 1=
+25%;letter-spacing: -1px;margin: 0;text-align: left;color: #3a3c3e !import=
+ant;">Immer unterwegs? Tipps f=C3=BCr mobiles Arbeiten</h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnCaptionBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" valign=3D"top" style=3D"pad=
+ding: 9px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;">
+
+
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptio=
+nRightContentOuter" width=3D"100%" style=3D"border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody><tr>
+        <td valign=3D"top" class=3D"mcnCaptionRightContentInner" style=3D"=
+padding: 0 9px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;">
+            <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"mcnCaptionRightImageContentContainer" style=3D"border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <tbody><tr>
+                    <td class=3D"mcnCaptionRightImageContent" valign=3D"to=
+p" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspa=
+ce: 0pt;">
+
+
+                        <a href=3D"http://venturelab.us5.list-manage1.com/=
+track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D64900be60e&e=3Db319329bb0"=
+ title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: break-word !i=
+mportant;">
+
+
+                        <img alt=3D"" src=3D"https://gallery.mailchimp.com=
+/ed8d9998b1ef8c1febc54c41c/images/60c916da-9558-4b17-bc63-9c361ba7d8b5.jpg=
+" width=3D"175" style=3D"max-width: 175px;border: 0;line-height: 100%;outl=
+ine: none;text-decoration: none;vertical-align: bottom;height: auto !impor=
+tant;" class=3D"mcnImage">
+                        </a>
+
+
+                    </td>
+                </tr>
+            </tbody></table>
+            <table class=3D"mcnCaptionRightTextContentContainer" align=3D"=
+right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"352" styl=
+e=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;">
+                <tbody><tr>
+                    <td valign=3D"top" class=3D"mcnTextContent" style=3D"b=
+order-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color=
+: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;text-al=
+ign: left;">
+                        Die Digitalisierung ver=C3=A4ndert unsere Arbeitsw=
+eise enorm und bietet flexible Arbeitsformen.
+Sie arbeiten
+ auch h=C3=A4ufig von unterwegs? Ob im Zug oder im Caf=C3=A9=2C die Tipps=
+ von Swisscom KMU Business World helfen
+Ihnen=2C
+ beim mobilen Arbeiten entspannt zu bleiben und Verspannungen zu vermeiden=
+=2E
+<ul class=3D"arrow" style=3D"background: url(https://gallery.mailchimp.com=
+/ed8d9998b1ef8c1febc54c41c/images/ifjre_arrow.2.png) no-repeat;list-style:=
+ none;padding: 0 0 0 25px;">
+=09<li><a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3Dd06e1dec89&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Jetzt ausprobieren</a></li>
+</ul>
+
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #DADADA;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+                        <td style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;=
+text-align: left;">
+
+                            <h1 class=3D"mc-toc-title" style=3D"display: b=
+lock;font-family: Helvetica;font-size: 26px;font-style: normal;font-weight=
+: normal;line-height: 125%;letter-spacing: -1px;margin: 0;text-align: left=
+;color: #3a3c3e !important;">Unser Startup Support</h1>
+
+
+<p style=3D"color: #606060;font-family: Helvetica;font-size: 15px;line-hei=
+ght: 110%;text-align: left;"><strong>IFJ Startimpuls: Spannende Impulsrefe=
+rate und Networking</strong></p>
+
+<ul>
+=09<li><a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3D7f2b3b7fe0&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Das Internet der Zukunft // Z=C3=BCrich=
+=2C 18. Juni</a></li>
+=09<li><a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3Df4d570e992&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Unternehmerische Tipps von&nbsp;Filippo L=
+eutenegger&nbsp;// Z=C3=BCrich=2C 22. Juni</a></li>
+=09<li><a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3D3c1b28dcb0&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Gute Ideen werden geklaut: So sch=C3=BCtz=
+en Sie sich&nbsp;// Bern=2C 25. Juni</a></li>
+</ul>
+&nbsp;<br>
+<strong>Intensivkurse: Die beste Vorbereitung f=C3=BCr die Praxis</strong>
+
+<ul>
+=09<li><a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3D6d972e08a1&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Vorbereitung zur Firmengr=C3=BCndung // B=
+rugg=2C 24. Juni</a></li>
+=09<li><a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3D06052b9c06&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Vorbereitung zur Firmengr=C3=BCndung&nbsp=
+;// Z=C3=BCrich=2C&nbsp;2. Juli</a></li>
+=09<li><a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3D9c276d5ee6&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Einf=C3=BChrung Business Navigator&nbsp;/=
+/ Z=C3=BCrich=2C&nbsp;15. Juli</a></li>
+</ul>
+<br>
+<strong>Unternehmer-Tools: Garantiert schneller am Ziel</strong>
+
+<ul>
+=09<li><a href=3D"http://venturelab.us5.list-manage1.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3Df8fbc62a3c&e=3Db319329bb0" target=3D"_blank=
+" style=3D"color: #75858f;font-weight: normal;text-decoration: underline;w=
+ord-wrap: break-word !important;">Genial einfach eine Firma inkl. Startgut=
+haben gr=C3=BCnden</a></li>
+=09<li><a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3Dc882938732&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">F=C3=BChrende Business-Software AbaWeb gr=
+atis testen</a></li>
+=09<li><a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded=
+8d9998b1ef8c1febc54c41c&id=3D6f94da96db&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #75858f;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Der neue Business Navigator bringt Startu=
+ps auf Erfolgskurs</a></li>
+</ul>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;=
+text-align: left;">
+
+                            <img align=3D"none" height=3D"9" src=3D"https:=
+//gallery.mailchimp.com/ed8d9998b1ef8c1febc54c41c/images/386e549f-76d6-4ae=
+3-8baa-7bffd52ad44d.png" style=3D"width: 564px;height: 9px;margin: 0px;bor=
+der: 0;line-height: 100%;outline: none;text-decoration: none;" width=3D"56=
+4">
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #606060;font-family: Helvetica;font-size: 15px;line-height: 110%;=
+text-align: left;">
+
+                            <table style=3D"width: 560px;border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"vertical-align: top;padding-left: 10px;border-collap=
+se: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><a href=3D"http=
+://venturelab.us5.list-manage.com/track/click?u=3Ded8d9998b1ef8c1febc54c41=
+c&id=3Dd7f9241514&e=3Db319329bb0" target=3D"_blank" style=3D"color: #7585=
+8f;font-weight: normal;text-decoration: underline;word-wrap: break-word !i=
+mportant;"><img align=3D"none" height=3D"34" src=3D"https://gallery.mailch=
+imp.com/ed8d9998b1ef8c1febc54c41c/images/abacus.png" style=3D"width: 131px=
+;height: 34px;border: 0;line-height: 100%;outline: none;text-decoration: n=
+one;" width=3D"131"></a></td>
+=09=09=09<td style=3D"vertical-align: top;border-collapse: collapse;mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;"><a href=3D"http://venturelab.us5.l=
+ist-manage1.com/track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D2edf570778&=
+e=3Db319329bb0" target=3D"_blank" style=3D"color: #75858f;font-weight: no=
+rmal;text-decoration: underline;word-wrap: break-word !important;"><img al=
+ign=3D"none" height=3D"38" src=3D"https://gallery.mailchimp.com/ed8d9998b1=
+ef8c1febc54c41c/images/mobiliar.png" style=3D"width: 116px;height: 38px;bo=
+rder: 0;line-height: 100%;outline: none;text-decoration: none;" width=3D"1=
+16"></a><br>
+=09=09=09&nbsp;</td>
+=09=09=09<td style=3D"vertical-align: top;border-collapse: collapse;mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;"><a href=3D"http://venturelab.us5.l=
+ist-manage.com/track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D7479441d3c&e=
+=3Db319329bb0" target=3D"_blank" style=3D"color: #75858f;font-weight: nor=
+mal;text-decoration: underline;word-wrap: break-word !important;"><img ali=
+gn=3D"none" height=3D"38" src=3D"https://gallery.mailchimp.com/ed8d9998b1e=
+f8c1febc54c41c/images/postfinance.png" style=3D"width: 116px;height: 38px;=
+border: 0;line-height: 100%;outline: none;text-decoration: none;" width=3D=
+"116"></a><br>
+=09=09=09&nbsp;</td>
+=09=09=09<td style=3D"vertical-align: top;border-collapse: collapse;mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;"><a href=3D"http://venturelab.us5.l=
+ist-manage.com/track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D7854f066a7&e=
+=3Db319329bb0" target=3D"_blank" style=3D"color: #75858f;font-weight: nor=
+mal;text-decoration: underline;word-wrap: break-word !important;"><img ali=
+gn=3D"none" height=3D"38" src=3D"https://gallery.mailchimp.com/ed8d9998b1e=
+f8c1febc54c41c/images/swisscom.png" style=3D"width: 124px;height: 38px;bor=
+der: 0;line-height: 100%;outline: none;text-decoration: none;" width=3D"12=
+4"></a></td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END BODY -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+                                    <!-- BEGIN COLUMNS // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" id=3D"templateColumns" style=3D"border-c=
+ollapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-c=
+olor: #FFFFFF;border-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;">
+                                                    <tr>
+                                                        <td align=3D"left"=
+ valign=3D"top" class=3D"columnsContainer" width=3D"50%" style=3D"border-c=
+ollapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                                                            <table align=
+=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ class=3D"templateColumn" style=3D"border-collapse: collapse;mso-table-lsp=
+ace: 0pt;mso-table-rspace: 0pt;">
+                                                                <tr>
+                                                                    <td va=
+lign=3D"top" class=3D"leftColumnContainer" style=3D"border-collapse: colla=
+pse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"></td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                        <td align=3D"left"=
+ valign=3D"top" class=3D"columnsContainer" width=3D"50%" style=3D"border-c=
+ollapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                                                            <table align=
+=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ class=3D"templateColumn" style=3D"border-collapse: collapse;mso-table-lsp=
+ace: 0pt;mso-table-rspace: 0pt;">
+                                                                <tr>
+                                                                    <td va=
+lign=3D"top" class=3D"rightColumnContainer" style=3D"border-collapse: coll=
+apse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"></td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END COLUMNS -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+                                    <!-- BEGIN FOOTER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" id=3D"templateFooter" style=3D"border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-co=
+lor: #2c3c46;border-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContainer" style=3D"padding-top: 10px;padding-right: 18px;=
+padding-bottom: 10px;padding-left: 18px;border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;"><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=3D"border-=
+collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #ffffff;font-family: Helvetica;font-size: 11px;line-height: 125%;=
+text-align: left;">
+
+                            Das IFJ Institut f=C3=BCr Jungunternehmen ist=
+ die Anlaufstelle Nr. 1 f=C3=BCr Schweizer Startups. Seit 1989 haben wir=
+ =C3=BCber 100'000 Firmengr=C3=BCnder und Firmengr=C3=BCnderinnen auf ihre=
+m Weg in die Selbst=C3=A4ndigkeit unterst=C3=BCtzt.
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #ffffff;font-family: Helvetica;font-size: 11px;line-height: 125%;=
+text-align: left;">
+
+                            <a href=3D"http://venturelab.us5.list-manage1.=
+com/track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D67e7e36e3e&e=3D=
+b319329bb0" target=3D"_blank" style=3D"color: #ffffff;font-weight: normal;text-de=
+coration: underline;word-wrap: break-word !important;">Firma gr=C3=BCnden<=
+/a> | <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded8=
+d9998b1ef8c1febc54c41c&id=3D715cf38faf&e=3Db319329bb0" target=3D"_blank"=
+ style=3D"color: #ffffff;font-weight: normal;text-decoration: underline;wo=
+rd-wrap: break-word !important;">Kunden gewinnen</a> | <a href=3D"http://v=
+enturelab.us5.list-manage.com/track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=
+=3Db5576209d5&e=3Db319329bb0" target=3D"_blank" style=3D"color: #ffffff;f=
+ont-weight: normal;text-decoration: underline;word-wrap: break-word !impor=
+tant;">Investoren finden</a> | <a href=3D"http://venturelab.us5.list-manag=
+e.com/track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3Dd14402c8a7&e=3D=
+b319329bb0" target=3D"_blank" style=3D"color: #ffffff;font-weight: normal;text-=
+decoration: underline;word-wrap: break-word !important;">Wachstum planen</=
+a>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #ffffff;font-family: Helvetica;font-size: 11px;line-height: 125%;=
+text-align: left;">
+
+                            <table style=3D"width: 560px;border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;"><a href=3D"http://venturelab.us5.list-manage2.com/trac=
+k/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3Dcb706498db&e=3Db319329bb0" tar=
+get=3D"_blank" style=3D"color: #ffffff;font-weight: normal;text-decoration=
+: underline;word-wrap: break-word !important;"><img align=3D"none" height=
+=3D"44" src=3D"https://gallery.mailchimp.com/ed8d9998b1ef8c1febc54c41c/ima=
+ges/ce820e0e-e664-4390-8527-b8f84752590a.png" style=3D"width: 131px;height=
+: 44px;margin: 0px;border: 0;line-height: 100%;outline: none;text-decorati=
+on: none;" width=3D"131"></a></td>
+=09=09=09<td style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;"><a href=3D"http://venturelab.us5.list-manage.com/track=
+/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D413df43648&e=3Db319329bb0" targ=
+et=3D"_blank" style=3D"color: #ffffff;font-weight: normal;text-decoration:=
+ underline;word-wrap: break-word !important;"><img align=3D"none" height=
+=3D"36" src=3D"https://gallery.mailchimp.com/ed8d9998b1ef8c1febc54c41c/ima=
+ges/d8ccbd06-1687-4711-a294-21c6fec1920e.png" style=3D"width: 104px;height=
+: 36px;margin: 0px;border: 0;line-height: 100%;outline: none;text-decorati=
+on: none;" width=3D"104"></a></td>
+=09=09=09<td style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;"><a href=3D"http://venturelab.us5.list-manage.com/track=
+/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3Dc1ec4c8c47&e=3Db319329bb0" targ=
+et=3D"_blank" style=3D"color: #ffffff;font-weight: normal;text-decoration:=
+ underline;word-wrap: break-word !important;"><img align=3D"none" height=
+=3D"44" src=3D"https://gallery.mailchimp.com/ed8d9998b1ef8c1febc54c41c/ima=
+ges/6658413b-d371-44fa-b2cd-1ed64e7fa73e.png" style=3D"width: 78px;height:=
+ 44px;margin: 0px;border: 0;line-height: 100%;outline: none;text-decoratio=
+n: none;" width=3D"78"></a></td>
+=09=09=09<td style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;"><a href=3D"http://venturelab.us5.list-manage2.com/trac=
+k/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D745cc6b77c&e=3Db319329bb0" tar=
+get=3D"_blank" style=3D"color: #ffffff;font-weight: normal;text-decoration=
+: underline;word-wrap: break-word !important;"><img align=3D"none" height=
+=3D"36" src=3D"https://gallery.mailchimp.com/ed8d9998b1ef8c1febc54c41c/ima=
+ges/aac13613-58e3-40b7-8bb1-2bc3a49664a2.png" style=3D"width: 124px;height=
+: 36px;margin: 0px;border: 0;line-height: 100%;outline: none;text-decorati=
+on: none;" width=3D"124"></a></td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #ffffff;font-family: Helvetica;font-size: 11px;line-height: 125%;=
+text-align: left;">
+
+                            Institut f=C3=BCr Jungunternehmen AG=2C Kessle=
+rstrasse 9=2C 9000 St. Gallen<br>
+Tel. +41 (0)71 242 98 98<br>
+<br>
+<a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3Ded8d9998b=
+1ef8c1febc54c41c&id=3De776c0358c&e=3Db319329bb0" style=3D"color: #ffffff;=
+font-weight: normal;text-decoration: underline;word-wrap: break-word !impo=
+rtant;">Newsletter abmelden</a> <a href=3D"http://venturelab.us5.list-mana=
+ge.com/track/click?u=3Ded8d9998b1ef8c1febc54c41c&id=3D2759f8368f&e=3D=
+b319329bb0" style=3D"color: #ffffff;font-weight: normal;text-decoration: under=
+line;word-wrap: break-word !important;">Daten =C3=A4ndern</a><br>
+<br>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnFollowBlock" style=3D"border-collapse: collapse;mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnFollowBlockOuter">
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"padding: 9px;bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" class=
+=3D"mcnFollowBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" class=3D"mcnFollowContentContainer" style=3D"border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+    <tbody><tr>
+        <td align=3D"left" style=3D"padding-left: 9px;padding-right: 9px;b=
+order-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"mcnFollowContent" style=3D"border-collapse: collapse;ms=
+o-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                <tbody><tr>
+                    <td align=3D"left" valign=3D"top" style=3D"padding-top=
+: 9px;padding-right: 9px;padding-left: 9px;border-collapse: collapse;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;">
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;">
+=09=09=09=09=09=09=09<tbody><tr>
+=09=09=09=09=09=09=09=09<td valign=3D"top" style=3D"border-collapse: colla=
+pse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 10px;padding-bottom: 9px;border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;" class=3D"mcnFollowContentItemCon=
+tainer">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;margin-left: -10px;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3Da1051c6bbb&e=3Db319329bb0" target=3D"_blank=
+" style=3D"word-wrap: break-word !important;"><img src=3D"http://cdn-image=
+s.mailchimp.com/icons/social-block-v2/color-facebook-48.png" style=3D"disp=
+lay: block;border: 0;line-height: 100%;outline: none;text-decoration: none=
+;height: auto !important;" height=3D"24" width=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"left" valign=3D"middle" class=3D"mcnFollowTextContent" st=
+yle=3D"padding-left: 5px;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3Dccc17c6e93&e=3Db319329bb0" target=3D"" styl=
+e=3D"font-family: Arial;font-size: 11px;text-decoration: none;color: #FFFF=
+FF;font-weight: normal;line-height: 100%;text-align: center;word-wrap: bre=
+ak-word !important;">Facebook</a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 10px;padding-bottom: 9px;border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;" class=3D"mcnFollowContentItemCon=
+tainer">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;margin-left: -10px;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage1.com/track/click?u=3D=
+ed8d9998b1ef8c1febc54c41c&id=3D7b32eddac2&e=3Db319329bb0" target=3D"_blan=
+k" style=3D"word-wrap: break-word !important;"><img src=3D"http://cdn-imag=
+es.mailchimp.com/icons/social-block-v2/color-twitter-48.png" style=3D"disp=
+lay: block;border: 0;line-height: 100%;outline: none;text-decoration: none=
+;height: auto !important;" height=3D"24" width=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"left" valign=3D"middle" class=3D"mcnFollowTextContent" st=
+yle=3D"padding-left: 5px;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3D6eb448e7cd&e=3Db319329bb0" target=3D"" styl=
+e=3D"font-family: Arial;font-size: 11px;text-decoration: none;color: #FFFF=
+FF;font-weight: normal;line-height: 100%;text-align: center;word-wrap: bre=
+ak-word !important;">Twitter</a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 0;padding-bottom: 9px;border-collapse: collapse;mso-tab=
+le-lspace: 0pt;mso-table-rspace: 0pt;" class=3D"mcnFollowContentItemContai=
+ner">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;margin-left: -10px;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3D2f1bf443c1&e=3Db319329bb0" target=3D"_blank=
+" style=3D"word-wrap: break-word !important;"><img src=3D"http://cdn-image=
+s.mailchimp.com/icons/social-block-v2/color-link-48.png" style=3D"display:=
+ block;border: 0;line-height: 100%;outline: none;text-decoration: none;hei=
+ght: auto !important;" height=3D"24" width=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"left" valign=3D"middle" class=3D"mcnFollowTextContent" st=
+yle=3D"padding-left: 5px;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;">
+=09=09=09                                                                =
+        <a href=3D"http://venturelab.us5.list-manage.com/track/click?u=3De=
+d8d9998b1ef8c1febc54c41c&id=3Dc90650f0dd&e=3Db319329bb0" target=3D"" styl=
+e=3D"font-family: Arial;font-size: 11px;text-decoration: none;color: #FFFF=
+FF;font-weight: normal;line-height: 100%;text-align: center;word-wrap: bre=
+ak-word !important;">Website</a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"599" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #ffffff;font-family: Helvetica;font-size: 11px;line-height: 125%;=
+text-align: left;">
+
+                            <em>Copyright =C2=A9 2015 IFJ=2C All rights re=
+served.</em><br>
+ You are receiving this email because you subscribed to our newsletter.
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+                <center>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; b=
+order-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"paddi=
+ng-top:20px; padding-bottom:20px;">
+                            <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" id=3D"canspamBar">
+                                <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"color:#606060; font-family:Helvetica=2C Arial=2C sans-serif; font-s=
+ize:11px; line-height:150%; padding-right:20px; padding-bottom:5px; paddin=
+g-left:20px; text-align:center;">
+                                        This email was sent to <a href=3D"=
+mailto:dejan.strbac@gmail.com" target=3D"_blank" style=3D"color:#404040 !importa=
+nt;">dejan.strbac@gmail.com</a>
+                                        <br />
+                                        <a href=3D"http://venturelab.us5.l=
+ist-manage.com/about?u=3Ded8d9998b1ef8c1febc54c41c&id=3D539ad8da87&e=3D=
+b319329bb0&c=3D363da3cb91" target=3D"_blank" style=3D"color:#404040 !important;=
+"><em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http:=
+//venturelab.us5.list-manage1.com/unsubscribe?u=3Ded8d9998b1ef8c1febc54c41=
+c&id=3D539ad8da87&e=3Db319329bb0&c=3D363da3cb91" style=3D"color:#404040 !imp=
+ortant;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"=
+http://venturelab.us5.list-manage1.com/profile?u=3Ded8d9998b1ef8c1febc54c4=
+1c&id=3D539ad8da87&e=3Db319329bb0" style=3D"color:#404040 !important;">updat=
+e subscription preferences</a>
+                                        <br />
+                                        venturelab c/o IFJ &middot; EPFL I=
+nnovation Park &middot; B=C3=A2timent C &middot; Lausanne 1015 &middot; Sw=
+itzerland
+                                        <br />
+                                        <br />
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type=3D"text/css">
+                    @media only screen and (max-width: 480px){
+                        table[id=3D"canspamBar"] td{font-size:14px !impor=
+tant;}
+                        table[id=3D"canspamBar"] td a{display:block !impo=
+rtant; margin-top:10px !important;}
+                    }
+                </style>
+            </center><img src=3D"http://venturelab.us5.list-manage.com/tra=
+ck/open.php?u=3Ded8d9998b1ef8c1febc54c41c&id=3D363da3cb91&e=3Db319329bb0"=
+ height=3D"1" width=3D"1"></body>
+</html>
+--_----------=_MCPart_618425884--
