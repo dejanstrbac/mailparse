@@ -1,6 +1,6 @@
 defmodule MailParse do
 
-  def parse_mail(data) do
+  def parse(data) do
     try do
       {:ok, :mimemail.decode(data) |> parse_mail_data()}
     rescue
@@ -11,14 +11,14 @@ defmodule MailParse do
 
   def parse_mail_data({"multipart", _, headers, _, bodies}) do
     parse_mail_bodies(bodies, %{})
-    |> Map.merge extract_headers(headers)
+    |> Map.merge parse_headers(headers)
   end
 
 
   def parse_mail_data({"text", content_subtype_name, headers, _, body})
     when content_subtype_name == "plain" or content_subtype_name == "html" do
 
-    meta_data = extract_headers(headers)
+    meta_data = parse_headers(headers)
     case content_subtype_name do
       "html"  -> %{ :html => body }
       "plain" -> %{ :text => body }
@@ -62,6 +62,20 @@ defmodule MailParse do
   def parse_header(_, _), do: %{}
 
 
+  def parse_headers(mail_meta) do
+    fields = ["From", "To", "Cc", "Bcc", "Subject", "Date", "Delivered-To", "Message-ID"]
+    Enum.reduce fields, %{}, fn(field, data)->
+      case :proplists.get_value(field, mail_meta) do
+        :undefined -> data
+        value ->
+          formatted_value = format_field_value(field, value)
+          Map.put(data, String.to_atom(String.downcase(field)), formatted_value)
+      end
+    end
+  end
+
+
+
   def parse_mail_bodies([], collected), do: collected
 
   def parse_mail_bodies([body | bodies], collected) do
@@ -82,17 +96,6 @@ defmodule MailParse do
   end
 
 
-  def extract_headers(mail_meta) do
-    fields = ["From", "To", "Cc", "Bcc", "Subject", "Date", "Delivered-To", "Message-ID"]
-    Enum.reduce fields, %{}, fn(field, data)->
-      case :proplists.get_value(field, mail_meta) do
-        :undefined -> data
-        value ->
-          formatted_value = format_field_value(field, value)
-          Map.put(data, String.to_atom(String.downcase(field)), formatted_value)
-      end
-    end
-  end
 
 
   defp format_field_value("To", value) do

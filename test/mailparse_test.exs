@@ -3,7 +3,7 @@ defmodule MailParseTest do
 
   test "one PGP attachment" do
     {:ok, mail} = File.read("test/data/email1.eml")
-    {:ok, parsed_mail} = MailParse.parse_mail(mail)
+    {:ok, parsed_mail} = MailParse.parse(mail)
     [{"msg.asc", attachment}] = parsed_mail.attachments
     assert byte_size(attachment) == 95196
     assert parsed_mail.from.email == "ojos@gmx.ch"
@@ -14,7 +14,7 @@ defmodule MailParseTest do
 
   test "bcc and cc headers" do
     {:ok, mail} = File.read("test/data/email2.eml")
-    assert MailParse.parse_mail(mail) == {:ok,
+    assert MailParse.parse(mail) == {:ok,
       %{bcc: "dejan@advite.ch",
         cc: [%{email: "me@dejanstrbac.com", name: "Dejan Strbac"}],
         date: "Sun, 21 Jun 2015 09:28:43 +0200",
@@ -26,7 +26,7 @@ defmodule MailParseTest do
 
   test "normal HTML mail" do
     {:ok, mail} = File.read("test/data/email3.eml")
-    {:ok, parsed_mail} = MailParse.parse_mail(mail)
+    {:ok, parsed_mail} = MailParse.parse(mail)
     assert %{email: "tl@ifj.ch", name: "IFJ Newsletter"} == parsed_mail.from
     assert [%{email: "dejan.strbac@gmail.com", name: "Dejan"}] == parsed_mail.to
     assert parsed_mail.subject == "Fünf Tipps für entspanntes Arbeiten von unterwegs"
@@ -37,7 +37,7 @@ defmodule MailParseTest do
 
   test "multiple attachments" do
     {:ok, mail} = File.read("test/data/email4.eml")
-    {:ok, parsed_mail} = MailParse.parse_mail(mail)
+    {:ok, parsed_mail} = MailParse.parse(mail)
     [{"Thinking in Erlang.pdf", first_attachment},
      {"De%CC%81claration%20d'accident_LAMal_LCA.pdf", second_attachment}] = parsed_mail.attachments
 
@@ -52,7 +52,7 @@ defmodule MailParseTest do
 
   test "larger attachment" do
     {:ok, mail} = File.read("test/data/email5.eml")
-    {:ok, parsed_mail} = MailParse.parse_mail(mail)
+    {:ok, parsed_mail} = MailParse.parse(mail)
     [{"Cat. Gullà n°102-2015.pdf", attachment}] = parsed_mail.attachments
 
     assert byte_size(attachment) == 1254072
