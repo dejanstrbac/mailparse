@@ -140,8 +140,7 @@ defmodule MailParse do
         |> String.split(">")
         |> hd
         |> String.strip()
-        name = hd(parts) |> String.strip |> String.strip("\"")
-        %{name: name, email: email}
+        %{name: hd(parts) |> String.strip |> String.strip(?"), email: email}
     end
   end
 
